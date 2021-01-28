@@ -1,5 +1,6 @@
 ## R Programming Assignment 2: 
 ## Author: Colleen Davies
+## Function and variable names provided by rdpeng
 
 ## makeCacheMatrix() creates an object of type makeCacheMatrix() which is then
 ## used by cacheSolve() to either retrieve the inverse of the matrix passed to
